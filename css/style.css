@@ -89,3 +89,11 @@ body {
     width: 55px;
     border-radius: 50%;
 }
+
+.full-width-seciton {
+    background-color: rgb(243, 249, 251);
+}
+
+.why-choose-img {
+    margin-left: -125px;
+}
