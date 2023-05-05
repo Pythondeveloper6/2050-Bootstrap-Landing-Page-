@@ -97,3 +97,7 @@ body {
 .why-choose-img {
     margin-left: -125px;
 }
+
+.mycard {
+    border-bottom: 3px solid #6c63ff;
+}
