@@ -26,3 +26,23 @@ body {
     background-color: #4741AF;
     color: white;
 }
+
+.main-title {
+    font-size: 72px;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.main-btn {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+    background-color: #6c63ff;
+    padding: 15px 50px;
+    border-radius: 35px;
+}
