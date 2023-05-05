@@ -72,3 +72,20 @@ body {
     font-weight: 700;
     color: black;
 }
+
+.service-image {
+    border-radius: 50%;
+    background-color: rgb(243, 249, 251);
+    margin-top: 35px;
+}
+
+.service-img {
+    margin-top: -100px;
+}
+
+.service-icon {
+    background-color: #6c63ff;
+    padding: 15px;
+    width: 55px;
+    border-radius: 50%;
+}
