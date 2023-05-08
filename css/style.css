@@ -123,3 +123,9 @@ body {
     right: 10px;
     /* transition: 2s all ease; */
 }
+
+.blog-link{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+}
