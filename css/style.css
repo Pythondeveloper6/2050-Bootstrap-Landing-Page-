@@ -124,8 +124,16 @@ body {
     /* transition: 2s all ease; */
 }
 
-.blog-link{
+.blog-link {
     text-decoration: none;
     font-size: 18px;
     font-weight: 700;
+}
+
+.blog-card img{
+    transition: all .4s ease-in-out;
+}
+
+.blog-card:hover img {
+    transform: scale(1.1)rotate(-5deg);
 }
